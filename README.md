@@ -5,7 +5,7 @@
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshagarwal52)
 [![GitLab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Harshagarwal52)
-[![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/rajishu/)
+ <!-- [![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/rajishu/) -->
 
 <!-- &nbsp; -->
   
